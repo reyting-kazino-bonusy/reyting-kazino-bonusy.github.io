@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-kazino-bonusy.github.io
+Sitemap: https://reyting-kazino-bonusy.github.io/sitemap.xml
